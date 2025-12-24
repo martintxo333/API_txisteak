@@ -74,6 +74,8 @@ Follow the terminal instructions to choose how many jokes you want to display.
 
 **Martin Maiz Negredo**
 
+---
+
 ## License
 
 This project is licensed under the MIT License.  
