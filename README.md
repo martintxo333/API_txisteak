@@ -70,13 +70,6 @@ Follow the terminal instructions to choose how many jokes you want to display.
 
 ---
 
-## Output
-
-* **txisteak.txt**
-  Stores all retrieved jokes and translations using **UTF-8 encoding**.
-
----
-
 ## Author
 
 **Martin Maiz Negredo**
